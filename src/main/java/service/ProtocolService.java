@@ -1,2 +1,10 @@
-package service;public class ProtocolService {
+package service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ProtocolService {
+
+
+
 }
